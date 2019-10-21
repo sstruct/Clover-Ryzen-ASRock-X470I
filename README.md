@@ -1,15 +1,22 @@
 # Clover EFI for Ryzen 2700X &amp; ASRock Fatal1ty X470 Gaming-ITX/ac &amp; DW1820A
 
-## HW Builds
+![about this mac](./images/about-this-mac.png)
+
+## Hardware Builds
 
 | Type                 | Name                               |
-|----------------------|------------------------------------|
+| -------------------- | ---------------------------------- |
 | CPU                  | Ryzen 2700X                        |
-| Mobo                 | ASRock Fatal1ty X470 Gaming-ITX/ac |
+| Mother Board         | ASRock Fatal1ty X470 Gaming-ITX/ac |
 | Audio                | ALC1220                            |
 | GPU                  | Sapphire Radeon RX 590 8 GB        |
-| RAM                  | 32G DDR4 (16G * 2)                 |
+| RAM                  | 32G DDR4 (16G \* 2)                |
 | Wireless & Bluetooth | DW1820A                            |
+
+## OS Version
+
+- macOS: 10.14.6 (builds 18G95, 18G103)
+- Dual-booting Windows 10
 
 ## Functional
 
