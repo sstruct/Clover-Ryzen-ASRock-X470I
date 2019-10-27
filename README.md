@@ -1,4 +1,4 @@
-# Clover EFI for Ryzen 2700X &amp; ASRock Fatal1ty X470 Gaming-ITX/ac &amp; DW1820A
+# Clover EFI for Ryzen 2700X &amp; ASRock Fatal1ty X470 Gaming-ITX/ac &amp; BCM94360CS2
 
 ![about this mac](./images/about-this-mac.png)
 
@@ -11,7 +11,7 @@
 | Audio                | ALC1220                            |
 | GPU                  | Sapphire Radeon RX 590 8 GB        |
 | RAM                  | 32G DDR4 (16G \* 2)                |
-| Wireless & Bluetooth | DW1820A                            |
+| Wireless & Bluetooth | BCM94360CS2                        |
 
 ## OS Version
 
@@ -24,8 +24,6 @@
 - [x] USB by [XLNC's script](https://github.com/XLNCs/ryzenusbfix)
 - [x] Audio by [AppleALC](https://github.com/acidanthera/AppleALC) (alcid=11)
 - [x] Graphics by [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
-- [x] WIFI by [AirportBrcmFixup](https://github.com/acidanthera/AirportBrcmFixup) (brcmfx-country=#a)
-- [x] Bluetooth by [BrcmPatchRAM](https://github.com/RehabMan/OS-X-BrcmPatchRAM) and [nickhx from osxlatitude](https://osxlatitude.com/forums/topic/11540-dw1820a-the-general-troubleshooting-thread/page/10/)
 - [x] iMessage / FaceTime / Airdrop / Handoff
 
 ## Issues
